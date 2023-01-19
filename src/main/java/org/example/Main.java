@@ -12,6 +12,9 @@ public class Main {
         randomGenerationArray(array2);
         randomGenerationArray(array3);
 
+
+
+
         long start1 = System.currentTimeMillis();
         sortBubble(array1);
         System.out.println(System.currentTimeMillis() - start1);
